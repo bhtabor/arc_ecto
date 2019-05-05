@@ -3,6 +3,11 @@ Arc.Ecto
 
 Arc.Ecto provides an integration with [Arc](https://github.com/stavro/arc) and Ecto.
 
+Why this fork exists
+====================
+
+See https://github.com/stavro/arc_ecto/pull/110. It fixes a dialyzer complaint. If this is ever merged or solved otherwise, switch back to main package.
+
 Installation
 ============
 
